@@ -1,4 +1,4 @@
-## *Academia Escape*
+## **Academia Escape**
 
 Due to the large size of the game (because of assets, etc), I have made the game available to download from Google Drive
 
